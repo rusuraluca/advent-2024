@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 style="font-size: 64px;">Metrics</h1>
+
+<div class="navigation">
+    <a href="{{ url_for('calendar', year=prev_year, month=prev_month) }}" class="prev">←</a>
+    <h1 style="font-size: 42px; margin: 0;">{{ year }}/{{ month }}</h1>
+    <a href="{{ url_for('calendar', year=next_year, month=next_month) }}" class="next">→</a>
+</div>
+
+<table>
+    <tr>
+        {% for day_name in ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'] %}
+        <th>{{ day_name }}</th>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% for _ in range(first_day) %}
+        <td></td>
+        {% endfor %}
+        {% for day in range(1, days_in_month + 1) %}
+        {% set current_date = ("%04d-%02d-%02d" % (year, month, day)) %}
+        <td style="background-color: {{ '#FF6060' if metrics.get(current_date) == 20 else '#87DF5E' if metrics.get(current_date) == 80 else 'white' }};">
+            <strong>{{ day }}</strong>
+        </td>
+        {% if (first_day + day) % 7 == 0 %}
+    </tr>
+    <tr>
+        {% endif %}
+        {% endfor %}
+    </tr>
+</table>
+
+<form method="POST">
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required>
+    <label for="metric">Metric:</label>
+    <select id="metric" name="metric" required>
+        <option value="20">20</option>
+        <option value="80">80</option>
+    </select>
+    <button type="submit">Add Metric</button>
+</form>
+{% endblock %}
