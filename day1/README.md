@@ -1,6 +1,7 @@
 # **80/20 Rule Daily Metrics Calendar**
 
 A simple Flask-based web application for tracking daily metrics in a visually appealing calendar format. This app allows users to input daily metrics (20% or 80%) and displays them on a calendar with color-coded feedback.
+![app view](img.png)
 
 ---
 

@@ -14,8 +14,8 @@ During December 2024, I created a new project every day, emphasizing different p
 
 ## **Daily Breakdown**
 
-**Day 1 (Python+Flask)**: *80/20 Rule Daily Metrics Calendar*
+**Day 1 (Python+Flask)**: [*80/20 Rule Daily Metrics Calendar*](https://github.com/rusuraluca/advent-2024/tree/main/day1)
    - A web application for tracking daily metrics in a visually appealing calendar format. This app allows users to input daily metrics (20% or 80% by the 80/20 life guiding rule) and displays them on a calendar with color-coded feedback.
 
-**Day 2 (JavaScript)**: *Color Palette Generator*  
+**Day 2 (JavaScript)**: [*Color Palette Generator*](https://github.com/rusuraluca/advent-2024/tree/main/day2)  
    - A web app that generates harmonious color schemes using JavaScript's Canvas API.
