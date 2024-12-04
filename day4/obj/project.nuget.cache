@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aY+GIdQImh7QAv4TVNBNxEztgKj8+NzyAaTLXOOhi5IrhVJffip2ZojRVyrgXayONdxvAVs4vsN7ePWwLE/QyA==",
+  "success": true,
+  "projectFilePath": "/Users/rusuraluca/Desktop/advent-2024/day4/day4.csproj",
+  "expectedPackageFiles": [
+    "/Users/rusuraluca/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

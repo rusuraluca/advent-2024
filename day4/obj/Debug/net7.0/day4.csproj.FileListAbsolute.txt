@@ -1,0 +1,17 @@
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.csproj.AssemblyReference.cache
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.AssemblyInfoInputs.cache
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.AssemblyInfo.cs
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.csproj.CoreCompileInputs.cache
+/Users/rusuraluca/Desktop/advent-2024/day4/bin/Debug/net7.0/day4
+/Users/rusuraluca/Desktop/advent-2024/day4/bin/Debug/net7.0/day4.deps.json
+/Users/rusuraluca/Desktop/advent-2024/day4/bin/Debug/net7.0/day4.runtimeconfig.json
+/Users/rusuraluca/Desktop/advent-2024/day4/bin/Debug/net7.0/day4.dll
+/Users/rusuraluca/Desktop/advent-2024/day4/bin/Debug/net7.0/day4.pdb
+/Users/rusuraluca/Desktop/advent-2024/day4/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.csproj.CopyComplete
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.dll
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/refint/day4.dll
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.pdb
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/day4.genruntimeconfig.cache
+/Users/rusuraluca/Desktop/advent-2024/day4/obj/Debug/net7.0/ref/day4.dll
