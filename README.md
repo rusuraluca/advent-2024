@@ -22,6 +22,14 @@ During December 2024, I created a new project every day, emphasizing different p
 
 - A web app that generates harmonious color schemes using JavaScript's Canvas API.
 
-**Day 3 (Ruby)**: [*Ruby Static Website Generator*](https://github.com/rusuraluca/advent-2024/tree/main/day3)
+**Day 3 (Ruby)**: [*Static Website Generator*](https://github.com/rusuraluca/advent-2024/tree/main/day3)
 
 - A lightweight Ruby-based static website generator that converts Markdown files into a clean, visually appealing blog. This generator uses ERB templates for rendering HTML.
+
+**Day 4 (C#)**: [*Currency Converter*](https://github.com/rusuraluca/advent-2024/tree/main/day4)
+
+- A simple and efficient console-based currency converter built with C#. It demonstrates the power of LINQ and `HttpClient` to fetch and process real-time exchange rates from an external API.
+
+**Day 5 (GO)**: [*Mini HTTP File Server*](https://github.com/rusuraluca/advent-2024/tree/main/day5)
+
+- A lightweight Go-based HTTP server for sharing local files, demonstrating the simplicity and efficiency of Go's networking capabilities. This file server enables you to share files from a directory on your machine through a web browser.
