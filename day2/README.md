@@ -8,7 +8,7 @@ A simple web application that generates harmonious color schemes using JavaScrip
 ## **Features**
 
 - **Color Palette Generation:** Click a button to generate a set of harmonious colors based on a random base color.
-- **Color Display:** View the colors visually on the canvas.
+- **Color Display:** View the colors on the canvas.
 - **Hex Code Display:** See the hex codes of each color displayed below the palette.
 
 ---
