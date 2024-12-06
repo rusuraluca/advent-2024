@@ -33,3 +33,7 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 5 (GO)**: [*Mini HTTP File Server*](https://github.com/rusuraluca/advent-2024/tree/main/day5)
 
 - A lightweight Go-based HTTP server for sharing local files, demonstrating the simplicity and efficiency of Go's networking capabilities. This file server enables you to share files from a directory on your machine through a web browser.
+
+**Day 6 (Rust)**: [*Image Resizer*](https://github.com/rusuraluca/advent-2024/tree/main/day6)
+
+- A high-performance Rust application for resizing images in bulk, demonstrating Rust's speed and efficiency.
