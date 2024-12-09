@@ -37,3 +37,7 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 6 (Rust)**: [*Image Resizer*](https://github.com/rusuraluca/advent-2024/tree/main/day6)
 
 - A high-performance Rust application for resizing images in bulk, demonstrating Rust's speed and efficiency.
+
+**Day 7 Java**: [*To-Do List*](https://github.com/rusuraluca/advent-2024/tree/main/day7)
+
+- To-do list console app with task management (add, view, delete).
