@@ -38,6 +38,15 @@ During December 2024, I created a new project every day, emphasizing different p
 
 - A high-performance Rust application for resizing images in bulk, demonstrating Rust's speed and efficiency.
 
-**Day 7 Java**: [*To-Do List*](https://github.com/rusuraluca/advent-2024/tree/main/day7)
+**Day 7 (Java)**: [*To-Do List*](https://github.com/rusuraluca/advent-2024/tree/main/day7)
 
 - To-do list console app with task management (add, view, delete).
+
+**Day 8 (PHP)**: [*Contact Form*](https://github.com/rusuraluca/advent-2024/tree/main/day8)
+
+- A PHP-based web application for submitting and storing contact form entries.
+
+
+**Day 9 (C++)**: [*Maze Solver*](https://github.com/rusuraluca/advent-2024/tree/main/day9)
+
+- A maze solver in C++ using depth-first search (DFS).
