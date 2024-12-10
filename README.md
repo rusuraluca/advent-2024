@@ -50,3 +50,7 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 9 (C++)**: [*Maze Solver*](https://github.com/rusuraluca/advent-2024/tree/main/day9)
 
 - A maze solver in C++ using depth-first search (DFS).
+
+**Day 10 (GO)**: [*Strong Password Generator*](https://github.com/rusuraluca/advent-2024/tree/main/day10)
+
+- A Go-based command-line tool for generating random, secure passwords. 
