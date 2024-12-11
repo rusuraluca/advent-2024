@@ -1,0 +1,29 @@
+<div class="container">
+    <header>
+        <h1>Countdown to Christmas 🎄</h1>
+    </header>
+
+    <div>
+        <% if @days_until_christmas == 0 %>
+            <span class="badge bg-success">🎅 Merry Christmas!</span>
+        <% else %>
+            <span class="badge bg-primary">🎁 <%= @days_until_christmas %> days to go!</span>
+        <% end %>
+    </div>
+
+    <section>
+        <h2>December Calendar</h2>
+        <div class="calendar-grid">
+        <% @calendar.each do |day| %>
+            <div class="day <%= 'passed' if day[:passed] %>">
+                <span class="day-number"><%= day[:date].day %></span>
+                <% if day[:passed] %>
+                    <i class="bi bi-check-circle-fill"></i>
+                <% else %>
+                    <i class="bi bi-circle"></i>
+                <% end %>
+            </div>
+        <% end %>
+        </div>
+    </section>
+</div>
