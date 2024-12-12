@@ -58,3 +58,8 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 11 (Ruby on Rails)**: [*Christmas Countdown App*](https://github.com/rusuraluca/advent-2024/tree/main/day11)
 
 - A Ruby on Rails web application that creates an interactive countdown to Christmas.
+
+**Day 12 (R)**: [*Plot Snowfall Trends*](https://github.com/rusuraluca/advent-2024/tree/main/day12)
+
+- A R-based application that visualizes snowfall trends using a line graph.
+
