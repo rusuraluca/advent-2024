@@ -32,7 +32,7 @@ $ cd day12
 ### **Using VS Code Dev Containers**
 - Open the project in Visual Studio Code.
 - Reopen the project in the Dev Container:
-- Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and select Dev Containers: Reopen in Container.
+  - Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and select Dev Containers: Reopen in Container.
 - Open a terminal inside the container and run:
     ```bash
     $ Rscript snowfall_trends.R
