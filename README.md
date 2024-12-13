@@ -46,7 +46,6 @@ During December 2024, I created a new project every day, emphasizing different p
 
 - A PHP-based web application for submitting and storing contact form entries.
 
-
 **Day 9 (C++)**: [*Maze Solver*](https://github.com/rusuraluca/advent-2024/tree/main/day9)
 
 - A maze solver in C++ using depth-first search (DFS).
@@ -63,3 +62,6 @@ During December 2024, I created a new project every day, emphasizing different p
 
 - A R-based application that visualizes snowfall trends using a line graph.
 
+**Day 13 (C)**: [*Mini Sudoku Solver*](https://github.com/rusuraluca/advent-2024/tree/main/day13)
+
+- A C-based program that solves 4x4 Sudoku puzzles.
