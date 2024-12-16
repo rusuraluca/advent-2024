@@ -65,3 +65,7 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 13 (C)**: [*Mini Sudoku Solver*](https://github.com/rusuraluca/advent-2024/tree/main/day13)
 
 - A C-based program that solves 4x4 Sudoku puzzles.
+
+**Day 14 (Lua)**: [*Santa Platformer Game*](https://github.com/rusuraluca/advent-2024/tree/main/day14)
+
+- A Lua-based platformer game featuring Santa, built with LOVE2D.
