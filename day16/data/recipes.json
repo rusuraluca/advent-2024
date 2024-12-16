@@ -1,0 +1,5 @@
+[
+    { "name": "Christmas Cookies", "ingredients": ["flour", "sugar", "butter"] },
+    { "name": "Eggnog", "ingredients": ["milk", "eggs", "sugar", "nutmeg"] },
+    { "name": "Roast Turkey", "ingredients": ["turkey", "butter", "herbs"] }
+]

@@ -1,0 +1,5 @@
+[
+    { "category": "Tech", "suggestions": ["Smartwatch", "Bluetooth Speaker", "Wireless Headphones"] },
+    { "category": "Books", "suggestions": ["Cookbook", "Mystery Novel", "Self-help Guide"] },
+    { "category": "Kids", "suggestions": ["Lego Set", "Board Game", "Action Figure"] }
+]
