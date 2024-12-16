@@ -73,3 +73,7 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 15 (SQL + PostgreSQL)**: [*Holiday Gift Tracker*](https://github.com/rusuraluca/advent-2024/tree/main/day15)
 
 - A PostgreSQL-based project to organize holiday gifts and track budgets.
+
+**Day 16 (Python)**: [*Holiday Chatbot*](https://github.com/rusuraluca/advent-2024/tree/main/day16)
+
+- A simple Python chatbot that suggests holiday recipes and gift ideas.
