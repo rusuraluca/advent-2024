@@ -1,0 +1,9 @@
+{
+    "name": "Holiday Gift Tracker",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "runArgs": ["--name", "holiday_tracker"],
+    "postCreateCommand": "echo 'Database initialized!'"
+}
