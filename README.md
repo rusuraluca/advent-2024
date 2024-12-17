@@ -77,3 +77,7 @@ During December 2024, I created a new project every day, emphasizing different p
 **Day 16 (Python)**: [*Holiday Chatbot*](https://github.com/rusuraluca/advent-2024/tree/main/day16)
 
 - A simple Python chatbot that suggests holiday recipes and gift ideas.
+
+**Day 17 (Haskell)**: [*Advent of Code problem*](https://github.com/rusuraluca/advent-2024/tree/main/day17)
+
+- Solve a simple Advent of Code problem: summing all integers in a list (e.g., part of the 2021 Day 1 puzzle).
