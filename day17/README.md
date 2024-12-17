@@ -2,7 +2,6 @@
 
 Solve a simple Advent of Code problem: summing all integers in a list (e.g., part of the 2021 Day 1 puzzle).
 
-
 ---
 
 ## **Features**
