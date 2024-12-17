@@ -1,0 +1,8 @@
+{
+    "name": "Haskell Advent of Code",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "postCreateCommand": "stack build"
+}
